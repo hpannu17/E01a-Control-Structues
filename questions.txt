@@ -1,29 +1,29 @@
 Open main1.py. Before running it, what do you expect this program to do? 
-
+I have no clue.
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
-
+It asked me "What is my favorite color?".
 What do you think the program did with what you typed?
-
+It put Greetings, regardless of anything else and then asked as input, but didn't ask for any output.
 
 
 Open main2.py. Before running it, describe how this is different than main1.py. 
-
+There is an additional line to main2.py and more added to the last line of main1.py
 What do you think the color = input() will do? 
-
+I believe it will allow you to answer what the favorite color is
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
+It allowed me to answer this time, but didn't tell me if it was right or not.
 
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
-
+It has a way to tell me if I am right or wrong with the answer I put.
 What is happening on lines 11–14? 
-
+It has what the computer will tell me for any answer I say for the question. It organizes it in such a way that no matter what I write, it will tell me if I am write or not.
 Why are lines 12 and 14 indented? 
-
+To organize and separate what the computer will tell me. They are indented due to the line before them being answers I might say and lines 12 and 14 are the answers to my answer.
 Run the program and answer the question. What happens if you don’t capitalize Red? 
-
+It says it's wrong.
 What does this tell you about "color"?
-
+The color is not shown, but read as any other word. I believe the computer itself does not possess the knowledge that Red and red are the same thing despite one having a captitalized letter
 
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
